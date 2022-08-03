@@ -357,7 +357,7 @@
 
 [^187]: M. Smith, "'Dirty USSD' Code Could Automatically Wipe Your Samsung TouchWize Device (Updated)", Engadget, 25 Oct. 2012; https://www.engadget.com/2012/09/25/dirty-ussd-code-samsung-hack-wipe/ [accessed 8/29/2016]
 
-[^188]: "Remote USSD Code Execution on Android Devices", 29 Oct. 2012, https://www.nowsecure.com/blog/2012/09/25/remote-ussd-code-execution-on-android-devices/ [accessed 8/29/2016]
+[^188]: "Remote USSD Code Execution on Android Devices", 29 Oct. 2012, https://www.nowsecure.com/blog/2017/09/24/remote-ussd-code-execution-on-android-devices/ [accessed 8/29/2022]
 
 [^189]: K. Nohn, Mobile Self-Defense, presented at 31st Chaos Communication Congress, 27 Dec. 2014; https://events.ccc.de/congress/2014/Fahrplan/system/attachments/2493/original/Mobile_Self_Defense-Karsten_Nohl-31C3-v1.pdf [accessed 8/29/2016]
 
